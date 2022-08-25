@@ -1,0 +1,1 @@
+This will be the first project that is not fully guided along by the lesson. Pulling info I learned from previous lessons to create an HTML page and also all the steps surrounding it (i.e. Git stuff, boilerplate stuff, etc)
